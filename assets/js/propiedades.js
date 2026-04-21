@@ -1,4 +1,4 @@
-let apiURL = "https://Gabo1308.github.io/Tarea-Semana-7/datos/propiedades.json";
+let apiURL = "https://gabo1308.github.io/Tarea-Semana-7/datos/propiedades.json";
 
 $(document).ready(function () {
     cargarPropiedades();
